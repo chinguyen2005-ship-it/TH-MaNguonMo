@@ -1,0 +1,50 @@
+================================================================================
+THỜI GIAN GỬI: 2026-06-03 01:22:06
+GỬI ĐẾN: nguyenducchinguyen2005@gmail.com
+TIÊU ĐỀ: Yeu cau dat lai mat khau tai Shop IT
+NỘI DUNG:
+Chào Nguyen Van B,
+
+Chúng tôi nhận được yêu cầu đặt lại mật khẩu cho tài khoản của bạn.
+Vui lòng nhấp vào đường dẫn dưới đây để thay đổi mật khẩu (có hiệu lực trong 1 giờ):
+
+http://localhost/Account/resetPassword?token=456fbee167dfcaa4bac10b5f368822b8
+
+Nếu bạn không yêu cầu điều này, xin vui lòng bỏ qua email.
+
+Trân trọng,
+Ban quản trị Shop IT.
+================================================================================
+
+================================================================================
+THỜI GIAN GỬI: 2026-06-03 01:42:53
+GỬI ĐẾN: nguyen@gmail.com
+TIÊU ĐỀ: Kich hoat tai khoan cua ban tai Shop IT
+NỘI DUNG:
+Chào Nguyen Van C,
+
+Cảm ơn bạn đã đăng ký thành viên tại Shop IT.
+Vui lòng click vào đường dẫn sau để kích hoạt tài khoản của bạn:
+
+http://localhost/Account/verify?token=42102c4d951ff20d77a53687c4be059b
+
+Trân trọng,
+Đội ngũ Shop IT.
+================================================================================
+
+================================================================================
+THỜI GIAN GỬI: 2026-06-03 01:56:41
+GỬI ĐẾN: ngyn@gmail.com
+TIÊU ĐỀ: Kich hoat tai khoan cua ban tai Shop IT
+NỘI DUNG:
+Chào Nguyen Van D,
+
+Cảm ơn bạn đã đăng ký thành viên tại Shop IT.
+Vui lòng click vào đường dẫn sau để kích hoạt tài khoản của bạn:
+
+http://localhost:8081/Account/verify?token=c2398b25f1f1696ccabfd736c951dcf2
+
+Trân trọng,
+Đội ngũ Shop IT.
+================================================================================
+
